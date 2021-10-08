@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phil's personal site</title>
+
+</head>
+<body>
+    <img src="images/pepe.jpg" alt="pepe">
+    <h1>Dilip</h1>
+    <p>
+        <em>Just started developing my <strong>skills</strong> in "frontend"...more like baby steps in HTML and CSS</em>
+    </p>
+    <p>
+        Right now I'm working in the shithole of a company, but I hope that my future lies bright infront of me.
+    </p>
+    <hr>
+    <h3>Favorite music genres and bands</h3>
+    <ul>
+        <li>Alternative rock </li>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=P027oGJy2n4">Highly Suspect</a></li>
+                <li>Nirvana</li>
+                <li>Black Market</li>
+            </ul>
+        <li>Metal</li>
+            <ul>
+                <li>Metallica</li>
+                <li>Iron Maide</li>
+                <li>Korn</li>
+            </ul>   
+    </ul>
+    hr
+    <a href="hobbies.html">My Hobbies</a> - CLICK ME
+<h3>Work Experience</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Dates</th>
+            <th>Work</th>
+        </tr>
+        <tbody>
+        <tr>
+            <td>2020.03 - 2021.09</td>
+            <td>Game Tester</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>Physiotherapyst</td>
+        </tr>
+        </tbody>
+    </thead>
+</table>
+</p>
+<hr>
+<h3>Skills</h3>
+<table>
+        <tbody>
+            <tr>
+                <td>Jira</td>
+                <td>⭐ ⭐ ⭐</td>
+                <td>Confluence</td>
+                <td>⭐ ⭐ ⭐ </td>
+            </tr>
+            <tr>
+                <td>HTML</td>
+                <td>⭐</td>
+                <td>CSS</td>
+                <td>⭐ </td>
+            </tr>
+        </tbody>
+</table>
+<p>
+    <a href="contact_me.html">Contact Me</a>
+</p>
+</body>
+</html>
